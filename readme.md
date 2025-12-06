@@ -3,10 +3,11 @@
 
 Kelompok 8 — 5B Sistem Informasi
 
-Nama Anggota	NIM	Tugas / Jobdesk
-Achmad Reza Dzurryyatul Asy'ari	701230011	Membuat ERD, Activity Diagram, Class Diagram, Mengembangkan aplikasi SI Arsip KUA menggunakan PHP Native, Final integrasi & video demo
-One Azizah	701230076	Deployment hosting ke InfinityFree, testing aplikasi, dokumentasi project, pembuatan slide presentasi
-Nanda Septa Lian Sari	701230043	Penyusunan dokumen SRS lengkap, Analisis kebutuhan sistem (Requirement Analysis)
+| Nama Anggota | NIM | Tugas / Jobdesk |
+| :--- | :--- | :--- |
+| **Achmad Reza Dzurryyatul Asy'ari** | 701230011 | Membuat ERD, Activity Diagram, Class Diagram, Mengembangkan aplikasi SI Arsip KUA menggunakan PHP Native, Final integrasi & video demo |
+| **One Azizah** | 701230076 | Deployment hosting ke InfinityFree, testing aplikasi, dokumentasi project, pembuatan slide presentasi |
+| **Nanda Septa Lian Sari** | 701230043 | Penyusunan dokumen SRS lengkap, Analisis kebutuhan sistem (Requirement Analysis) |
 📱 Deskripsi Singkat Aplikasi
 
 SI ARSIP KUA adalah aplikasi berbasis web yang digunakan untuk digitalisasi dan pengarsipan buku nikah di Kantor Urusan Agama.
@@ -33,34 +34,23 @@ Menyediakan pencarian cepat & filter data
 
 Menyediakan log aktivitas pengguna
 
-🛠 Teknologi yang Digunakan
-Backend
+## 🛠 Teknologi yang Digunakan
 
-PHP 8.1 (Native)
+### Backend
+* **Bahasa:** PHP 8.1 (Native)
+* **Database:** MySQL 8.0
+* **Driver:** PDO (Prepared Statement)
+* **Auth:** Session Authentication
 
-MySQL 8.0
+### Frontend
+* HTML5, CSS3, JavaScript
+* Bootstrap 5
+* SweetAlert2
+* Icons Bootstrap
 
-PDO (Prepared Statement)
-
-Session Authentication
-
-Frontend
-
-HTML5, CSS3, JavaScript
-
-Bootstrap 5
-
-SweetAlert2
-
-Icons Bootstrap
-
-Security
-
-Password hashing (password_hash())
-
-Input validation
-
-XSS & SQL Injection prevention
+### Security
+* Password hashing (`password_hash()`)
+* Input validation
 
 📱 Fitur Utama Aplikasi
 👨‍💼 Admin & Petugas
