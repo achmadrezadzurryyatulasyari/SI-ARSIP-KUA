@@ -8,10 +8,9 @@ Kelompok 8 — 5B Sistem Informasi
 | **Achmad Reza Dzurryyatul Asy'ari** | 701230011 | Membuat ERD, Activity Diagram, Class Diagram, Mengembangkan aplikasi SI Arsip KUA menggunakan PHP Native, Final integrasi & video demo |
 | **One Azizah** | 701230076 | Deployment hosting ke InfinityFree, testing aplikasi, dokumentasi project, pembuatan slide presentasi |
 | **Nanda Septa Lian Sari** | 701230043 | Penyusunan dokumen SRS lengkap, Analisis kebutuhan sistem (Requirement Analysis) |
-📱 Deskripsi Singkat Aplikasi
 
-SI ARSIP KUA adalah aplikasi berbasis web yang digunakan untuk digitalisasi dan pengarsipan buku nikah di Kantor Urusan Agama.
-Sistem ini dirancang untuk mempermudah penyimpanan, pencarian, manajemen data, dan pencetakan laporan akta nikah.
+## 📱 Deskripsi Singkat Aplikasi
+**SI ARSIP KUA** adalah aplikasi berbasis web yang digunakan untuk digitalisasi dan pengarsipan buku nikah di Kantor Urusan Agama. Sistem ini dirancang untuk mempermudah penyimpanan, pencarian, manajemen data, dan pencetakan laporan akta nikah.
 
 🎯 Tujuan Sistem
 Permasalahan
