@@ -67,40 +67,30 @@ Menyediakan log aktivitas pengguna
 | Auto Dark Mode | 🌙 |
 | Dashboard Statistik Arsip | 📊 |
 
-🔐 Akun Demo
-Role	Username	Password
-Admin	admin	admin123
-🚀 Cara Menjalankan Aplikasi
-Instalasi
+### 🔐 Akun Demo
+| Role | Username | Password |
+| :--- | :--- | :--- |
+| **Admin** | `admin` | `admin123` |
 
-Download project ke:
+## 🚀 Cara Menjalankan Aplikasi
 
-C:\laragon\www\si_arsip_kua\
+### 1. Instalasi
+Download project ke folder server lokal Anda:
+* **Laragon:** `C:\laragon\www\si_arsip_kua\`
+* **XAMPP:** `C:\xampp\htdocs\si_arsip_kua\`
 
+### 2. Database
+1.  Buka **phpMyAdmin**.
+2.  Buat database baru dengan nama: `si_arsip_kua`.
+3.  Import file: `si_arsip_kua.sql`.
 
-atau
-
-C:\xampp\htdocs\si_arsip_kua\
-
-
-Buka phpMyAdmin
-Buat database:
-
-si_arsip_kua
-
-
-Import file:
-
-si_arsip_kua.sql
-
-
-Konfigurasi koneksi database di config.php
+### 3. Konfigurasi
+Sesuaikan konfigurasi koneksi database di file `config.php`:
 
 $host = 'localhost';
 $dbname = 'si_arsip_kua';
 $username = 'root';
 $password = '';
-
 
 Jalankan server dan akses:
 
