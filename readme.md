@@ -51,18 +51,22 @@ Menyediakan log aktivitas pengguna
 * Password hashing (`password_hash()`)
 * Input validation
 
-📱 Fitur Utama Aplikasi
-👨‍💼 Admin & Petugas
-Fitur	Status
-Login Sistem	✅
-Manajemen Arsip Buku Nikah (CRUD)	✅
-Upload & Download Scan Akta (PDF/JPG/PNG)	✅
-Filter Data & Pencarian	✅
-Export Laporan PDF & Excel	🧾 PDF / XLS
-Log Aktivitas Sistem	📌 Tersedia
-Mode tampilan Grid / List	🎨
-Auto Dark Mode	🌙
-Dashboard Statistik Arsip	📊
+## 📱 Fitur Utama Aplikasi
+
+### 👨‍💼 Petugas
+
+| Fitur | Status |
+| :--- | :---: |
+| Login Sistem | ✅ |
+| Manajemen Arsip Buku Nikah (CRUD) | ✅ |
+| Upload & Download Scan Akta (PDF/JPG/PNG) | ✅ |
+| Filter Data & Pencarian | ✅ |
+| Export Laporan PDF & Excel | 🧾 |
+| Log Aktivitas Sistem | 📌 |
+| Mode tampilan Grid / List | 🎨 |
+| Auto Dark Mode | 🌙 |
+| Dashboard Statistik Arsip | 📊 |
+
 🔐 Akun Demo
 Role	Username	Password
 Admin	admin	admin123
